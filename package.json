@@ -1,0 +1,14 @@
+{
+  "name": "anagrams",
+  "version": "1.0.0",
+  "description": "the code for the popular anagram kata using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
