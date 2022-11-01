@@ -1,6 +1,6 @@
-import anagram from "./anagram";
+import anagram from "./anagram.js";
 
-import readFile from "./filereader";
+import readFile from "./filereader.js";
 
 function anagramFinder(source, target) {
   return target.filter((item) => anagram(source, item));

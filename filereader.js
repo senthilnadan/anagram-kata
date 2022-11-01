@@ -5,5 +5,5 @@ export default async function readFile(source) {
     encoding: "utf-8",
   });
 
-  return fileContents.split("\n");
+  return fileContents.split("\r\n");
 }

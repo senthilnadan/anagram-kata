@@ -28,7 +28,7 @@ test("paste is an anagram of pinkish", () => {
       "septa",
       "spate",
       "tapes",
-      "tepa1",
+      "tepas",
     ])
   );
 });
